@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "wl1yF/wtv6KvKLw+5FuIrgtuAmRSIfhSDa+0pXm2THg4hTwLPitV+akvMAjKJNokBUEOh3fBpLjrS7/7mCmfGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shash\\source\\repos\\ImgUploadApi\\ImgUploadApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shash\\.nuget\\packages\\awssdk.core\\3.7.200.7\\awssdk.core.3.7.200.7.nupkg.sha512",
+    "C:\\Users\\shash\\.nuget\\packages\\awssdk.s3\\3.7.201.5\\awssdk.s3.3.7.201.5.nupkg.sha512",
+    "C:\\Users\\shash\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\shash\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\shash\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",
+    "C:\\Users\\shash\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\shash\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\shash\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\shash\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\shash\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.18\\microsoft.netcore.app.runtime.win-x86.6.0.18.nupkg.sha512",
+    "C:\\Users\\shash\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.18\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.18.nupkg.sha512",
+    "C:\\Users\\shash\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.18\\microsoft.aspnetcore.app.runtime.win-x86.6.0.18.nupkg.sha512",
+    "C:\\Users\\shash\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.18\\microsoft.netcore.app.crossgen2.win-x64.6.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

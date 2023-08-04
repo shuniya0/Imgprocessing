@@ -1,0 +1,13 @@
+C:\Users\shash\source\repos\ImgUploadApi\obj\Release\net6.0\PubTmp\Out\ImgUploadApi.exe
+C:\Users\shash\source\repos\ImgUploadApi\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\shash\source\repos\ImgUploadApi\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\shash\source\repos\ImgUploadApi\obj\Release\net6.0\PubTmp\Out\ImgUploadApi.dll
+C:\Users\shash\source\repos\ImgUploadApi\obj\Release\net6.0\PubTmp\Out\ImgUploadApi.deps.json
+C:\Users\shash\source\repos\ImgUploadApi\obj\Release\net6.0\PubTmp\Out\ImgUploadApi.runtimeconfig.json
+C:\Users\shash\source\repos\ImgUploadApi\obj\Release\net6.0\PubTmp\Out\ImgUploadApi.pdb
+C:\Users\shash\source\repos\ImgUploadApi\obj\Release\net6.0\PubTmp\Out\AWSSDK.Core.dll
+C:\Users\shash\source\repos\ImgUploadApi\obj\Release\net6.0\PubTmp\Out\AWSSDK.S3.dll
+C:\Users\shash\source\repos\ImgUploadApi\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\shash\source\repos\ImgUploadApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shash\source\repos\ImgUploadApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shash\source\repos\ImgUploadApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
